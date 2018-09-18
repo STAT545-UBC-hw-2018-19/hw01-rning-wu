@@ -1,0 +1,45 @@
+---
+title: "iris"
+author: "ray"
+date: "September 18, 2018"
+output: 
+  html_document:
+    keep_md: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+This is exploring the IRIS dataset that comes built-in with R. 
+```{r iris}
+summary(iris)
+```
+
+So we can see that the we have 150 observations, 50 each from 3 species, and the dimensions of sepal and petals are recorded. 
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure}
+plot(iris)
+```
+
+Here we are looking at a two-way correlation table. As expected, petal length and with correlate highly. 
+
+Additionally, we see clustering in many of the correlation plots. This could indicate that the cluster may be one distinct species. 
+
+We could also compute various statistics manually. For example, 
+```{r}
+mean(iris$Petal.Width)
+```
+outputs 1.199, just like in the summary statistics. 
+
+Note that `echo = FALSE` parameter can be added to the code chunk to prevent printing of the R code that generated the plot.

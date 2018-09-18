@@ -21,7 +21,7 @@ I am Ray Wu, and I'm currently in my 4th year at UBC. I study computer science a
 
 I am taking stat 545/547 to learn more about data science 
 
-Here is a fairly recent photo of me: 
+Here is a fairly recent (april 2015) photo of me: 
 
 ![photo](ray.jpeg)
 
