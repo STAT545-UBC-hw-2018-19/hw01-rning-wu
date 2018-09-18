@@ -1,12 +1,14 @@
 # This is the repository of Ray Wu
 
 [this is a link to the main stat 545 webpage](http://stat545.com)
+
 [this is a link to the STAT 545 classroom](http://stat545.com/Classroom)
+
 [this is a link to the github repository (**this page!**)](https://github.com/STAT545-UBC-students/hw01-rning-wu)
 
 This repository contains: 
-1. readme.md (this file)
-2. hw01_instructions.md (the instructions)
+1. `readme.md` (this file)
+2. `hw01_instructions.md` (the instructions)
 3. R files
 
 ## about me
@@ -17,6 +19,16 @@ I am Ray Wu, and I'm currently in my 4th year at UBC. I study computer science a
 - cpsc 421
 - cpsc 314
 
+I am taking stat 545/547 to learn more about data science 
+
 Here is a fairly recent photo of me: 
 
 ![photo](ray.jpeg)
+
+Here are some quotes about science that I really like: 
+> Shall I refuse my dinner because I do not fully understand the process of digestion?
+
+to do: 
+- [x] finish this assignment
+- [ ] complete my degree
+- [ ] go to graduate school
