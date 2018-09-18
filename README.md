@@ -19,4 +19,4 @@ I am Ray Wu, and I'm currently in my 4th year at UBC. I study computer science a
 
 Here is a fairly recent photo of me: 
 
-[photo](ray.jpeg)
+![photo](ray.jpeg)
