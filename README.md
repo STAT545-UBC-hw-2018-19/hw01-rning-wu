@@ -25,10 +25,12 @@ Here is a fairly recent (april 2015) photo of me:
 
 ![photo](ray.jpeg)
 
-Here are some quotes about science that I really like: 
-> Shall I refuse my dinner because I do not fully understand the process of digestion?
+Here are some funny/humourous quotes: 
+> Shall I refuse my dinner because I do not fully understand the process of digestion? :think:
+> There are lies, damned lies, and then there are statistics :wink:
+> Never trust a computer that you can't throw out the window :joy:
 
-to do: 
+### To Do: 
 - [x] finish this assignment
 - [ ] complete my degree
 - [ ] go to graduate school
