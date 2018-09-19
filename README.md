@@ -26,8 +26,10 @@ Here is a fairly recent (april 2015) photo of me:
 ![photo](ray.jpeg)
 
 Here are some funny/humourous quotes: 
-> Shall I refuse my dinner because I do not fully understand the process of digestion? :think:
+> Shall I refuse my dinner because I do not fully understand the process of digestion? :thinking:
+
 > There are lies, damned lies, and then there are statistics :wink:
+
 > Never trust a computer that you can't throw out the window :joy:
 
 ### To Do: 
